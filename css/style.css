@@ -1,0 +1,22 @@
+/* .container {
+    padding: 1rem;
+} */
+
+#exampleFormControlSelect2 {
+    height: 55px;
+}
+
+#exampleFormControlTextarea1 {
+    width: 400px;
+}
+
+.btn-test {
+    color: white;
+    background-color: hotpink;
+}
+
+.btn-test:hover {
+    background-color: rgb(255, 68, 99);
+    color: white;
+    border-color: black
+}
